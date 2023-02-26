@@ -1,0 +1,30 @@
+[
+  {
+    "orederId": "7ffb629e-de2e-4842-a488-82b4588e0254",
+    "cutomer_name": "Sherlock",
+    "customer_address": "Backer st.21",
+    "customer_phone": "+998-99-389-81-32",
+    "total": 40000
+  },
+  {
+    "orederId": "64af0376-e103-4e61-9654-2225d1c95305",
+    "cutomer_name": "Anvar",
+    "customer_address": "123 Main St.",
+    "customer_phone": "123-456-7890",
+    "total": 40000
+  },
+  {
+    "orederId": "6359dcf9-4dee-4088-9352-5254a5ddb6f2",
+    "cutomer_name": "Anvar",
+    "customer_address": "123 Main St.",
+    "customer_phone": "123-456-7890",
+    "total": 40000
+  },
+  {
+    "orederId": "eaf5afca-70a1-45af-b227-1a9367382bf1",
+    "cutomer_name": "Anvar",
+    "customer_address": "123 Main St.",
+    "customer_phone": "123-456-7890",
+    "total": 40000
+  }
+]
